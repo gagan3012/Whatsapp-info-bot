@@ -6,7 +6,7 @@ Flask==1.1.1
 i18n==0.2
 idna==2.9
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 ngrok==0.0.1
 py==1.8.1
